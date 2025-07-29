@@ -1,0 +1,33 @@
+# Node modules (never commit these)
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Build artifacts (if using TypeScript or bundlers)
+dist/
+build/
+
+# Uploaded files (optional – if you store resumes temporarily)
+uploads/
+
+# Coverage reports (if using tests)
+coverage/
+
+# Optional lock files (pick only one)
+package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
