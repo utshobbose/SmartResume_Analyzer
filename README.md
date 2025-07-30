@@ -42,7 +42,7 @@ An intelligent web application that analyzes resumes using NLP and AI to recomme
 ### 🧩 Frontend
 - [SvelteKit](https://kit.svelte.dev/) — Reactive frontend framework
 - [Tailwind CSS](https://tailwindcss.com/) — Utility-first styling
-- [Flowbite Svelte](https://flowbite-svelte.com/) *(optional)* — Pre-built UI components
+
 
 ### 🧠 AI & NLP
 - [spaCy](https://spacy.io/) — Named Entity Recognition (NER)
