@@ -64,6 +64,9 @@ An intelligent web application that analyzes resumes using NLP and AI to recomme
 - CORS & Helmet for basic API security
 
 ---
+### 👨‍💻 Contributor
+- Zahin Abrar Dipto
+- Utshob Bose
 
 ## 📦 Installation & Setup
 
