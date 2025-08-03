@@ -65,7 +65,6 @@ An intelligent web application that analyzes resumes using NLP and AI to recomme
 
 ---
 ### 👨‍💻 Contributor
-- Zahin Abrar Dipto
 - Utshob Bose
 
 ## 📦 Installation & Setup
