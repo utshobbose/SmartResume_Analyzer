@@ -74,7 +74,7 @@ An intelligent web application that analyzes resumes using NLP and AI to recomme
 ```bash
 cd Backend
 npm install 
-npm run dev
+npm start
 ```
 ### Frontend (SvelteKit)
 
